@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <div style="display: flex; flex-direction: row; align-items: center;">
+    <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
         <img src="https://img.shields.io/badge/React-007396?style=flat&logo=React&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
